@@ -1,0 +1,1 @@
+components/chain/chain.js
